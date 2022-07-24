@@ -1,0 +1,100 @@
+{
+    "kids" : [
+        {
+            "productId" : 1,
+            "productName" : "Kids - Black - Thalaivar - T-shirt",
+            "oldPrice" : 500,
+            "newPrice" : 300,
+            "imagepath" : "./images/products/kids.jpeg",
+            "type" : "kids",
+            "sizes" : ["M", "S", "L", "XL"],
+            "otherImages" : ["./images/products/men.jpeg", "./images/products/women.jpeg", "./images/products/kids.jpeg"],
+            "colors" : ["red", "blue", "black", "green"],
+            "description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis commodi quae modi, iure voluptatem explicabo iste nihil velit consectetur cupiditate, quod voluptates ducimus excepturi? Impedit aspernatur minus rerum vero, qui eaque quisquam nobis explicabo? Officia, doloribus esse. Incidunt consequuntur, doloribus maxime illum accusamus, rem, velit vel assumenda deserunt nemo quam."
+        },
+        {
+            "productId" : 2,
+            "productName" : "Kids - Black - Thalaivar - T-shirt",
+            "oldPrice" : 500,
+            "newPrice" : 300,
+            "imagepath" : "./images/products/kids.jpeg",
+            "type" : "kids",
+            "sizes" : ["M", "S", "L", "XL"],
+            "otherImages" : ["./images/products/men.jpeg", "./images/products/women.jpeg", "./images/products/kids.jpeg"],
+            "colors" : ["red", "blue", "black", "green"],
+            "description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis commodi quae modi, iure voluptatem explicabo iste nihil velit consectetur cupiditate, quod voluptates ducimus excepturi? Impedit aspernatur minus rerum vero, qui eaque quisquam nobis explicabo? Officia, doloribus esse. Incidunt consequuntur, doloribus maxime illum accusamus, rem, velit vel assumenda deserunt nemo quam."
+        },
+        {
+            "productId" : 3,
+            "productName" : "Kids - Black - Thalaivar - T-shirt",
+            "oldPrice" : 500,
+            "newPrice" : 300,
+            "imagepath" : "./images/products/kids.jpeg",
+            "type" : "kids",
+            "sizes" : ["M", "S", "L", "XL"],
+            "otherImages" : ["./images/products/men.jpeg", "./images/products/women.jpeg", "./images/products/kids.jpeg"],
+            "colors" : ["red", "blue", "black", "green"],
+            "description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis commodi quae modi, iure voluptatem explicabo iste nihil velit consectetur cupiditate, quod voluptates ducimus excepturi? Impedit aspernatur minus rerum vero, qui eaque quisquam nobis explicabo? Officia, doloribus esse. Incidunt consequuntur, doloribus maxime illum accusamus, rem, velit vel assumenda deserunt nemo quam."
+        },
+        {
+            "productId" : 4,
+            "productName" : "Kids - Black - Thalaivar - T-shirt",
+            "oldPrice" : 500,
+            "newPrice" : 300,
+            "imagepath" : "./images/products/kids.jpeg",
+            "type" : "kids",
+            "sizes" : ["M", "S", "L", "XL"],
+            "otherImages" : ["./images/products/men.jpeg", "./images/products/women.jpeg", "./images/products/kids.jpeg"],
+            "colors" : ["red", "blue", "black", "green"],
+            "description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis commodi quae modi, iure voluptatem explicabo iste nihil velit consectetur cupiditate, quod voluptates ducimus excepturi? Impedit aspernatur minus rerum vero, qui eaque quisquam nobis explicabo? Officia, doloribus esse. Incidunt consequuntur, doloribus maxime illum accusamus, rem, velit vel assumenda deserunt nemo quam."
+        },
+        {
+            "productId" : 5,
+            "productName" : "Kids - Black - Thalaivar - T-shirt",
+            "oldPrice" : 500,
+            "newPrice" : 300,
+            "imagepath" : "./images/products/kids.jpeg",
+            "type" : "kids",
+            "sizes" : ["M", "S", "L", "XL"],
+            "otherImages" : ["./images/products/men.jpeg", "./images/products/women.jpeg", "./images/products/kids.jpeg"],
+            "colors" : ["red", "blue", "black", "green"],
+            "description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis commodi quae modi, iure voluptatem explicabo iste nihil velit consectetur cupiditate, quod voluptates ducimus excepturi? Impedit aspernatur minus rerum vero, qui eaque quisquam nobis explicabo? Officia, doloribus esse. Incidunt consequuntur, doloribus maxime illum accusamus, rem, velit vel assumenda deserunt nemo quam."
+        },
+        {
+            "productId" : 6,
+            "productName" : "Kids - Black - Thalaivar - T-shirt",
+            "oldPrice" : 500,
+            "newPrice" : 300,
+            "imagepath" : "./images/products/kids.jpeg",
+            "type" : "kids",
+            "sizes" : ["M", "S", "L", "XL"],
+            "otherImages" : ["./images/products/men.jpeg", "./images/products/women.jpeg", "./images/products/kids.jpeg"],
+            "colors" : ["red", "blue", "black", "green"],
+            "description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis commodi quae modi, iure voluptatem explicabo iste nihil velit consectetur cupiditate, quod voluptates ducimus excepturi? Impedit aspernatur minus rerum vero, qui eaque quisquam nobis explicabo? Officia, doloribus esse. Incidunt consequuntur, doloribus maxime illum accusamus, rem, velit vel assumenda deserunt nemo quam."
+        },
+        {
+            "productId" : 7,
+            "productName" : "Kids - Black - Thalaivar - T-shirt",
+            "oldPrice" : 500,
+            "newPrice" : 300,
+            "imagepath" : "./images/products/kids.jpeg",
+            "type" : "kids",
+            "sizes" : ["M", "S", "L", "XL"],
+            "otherImages" : ["./images/products/men.jpeg", "./images/products/women.jpeg", "./images/products/kids.jpeg"],
+            "colors" : ["red", "blue", "black", "green"],
+            "description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis commodi quae modi, iure voluptatem explicabo iste nihil velit consectetur cupiditate, quod voluptates ducimus excepturi? Impedit aspernatur minus rerum vero, qui eaque quisquam nobis explicabo? Officia, doloribus esse. Incidunt consequuntur, doloribus maxime illum accusamus, rem, velit vel assumenda deserunt nemo quam."
+        },
+        {
+            "productId" : 7,
+            "productName" : "Kids - Black - Thalaivar - T-shirt",
+            "oldPrice" : 500,
+            "newPrice" : 300,
+            "imagepath" : "./images/products/kids.jpeg",
+            "type" : "kids",
+            "sizes" : ["M", "S", "L", "XL"],
+            "otherImages" : ["./images/products/men.jpeg", "./images/products/women.jpeg", "./images/products/kids.jpeg"],
+            "colors" : ["red", "blue", "black", "green"],
+            "description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Veritatis commodi quae modi, iure voluptatem explicabo iste nihil velit consectetur cupiditate, quod voluptates ducimus excepturi? Impedit aspernatur minus rerum vero, qui eaque quisquam nobis explicabo? Officia, doloribus esse. Incidunt consequuntur, doloribus maxime illum accusamus, rem, velit vel assumenda deserunt nemo quam."
+        }
+    ]
+}

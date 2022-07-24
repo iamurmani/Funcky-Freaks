@@ -2,7 +2,11 @@ const burger = document.querySelector('.burger');
 const closeBtn = document.querySelector('.close');
 const navBar = document.querySelector('.nav-links');
 const carouselButton = document.querySelectorAll('[data-c-button]');
-const nextCarouselButton = document.querySelector('.next-btn')
+const nextCarouselButton = document.querySelector('.next-btn');
+const nextReviewButton = document.querySelector('.rev-next');
+const trendingCardElement = document.querySelector('.trending-card');
+const scrollWidthOFTrendingCard = trendingCardElement.scrollWidth;
+const trendingCardContainer = document.querySelector('.trending-container');
 burger.addEventListener('click',()=>{
     navBar.classList.add('nav-active');
     burger.classList.add('display-none');
@@ -14,9 +18,19 @@ closeBtn.addEventListener('click',()=>{
     burger.classList.remove('display-none');
 });
 
+setInterval(() => {
+    nextCarouselButton.click();
+}, 3000);
+
+setInterval(() => {
+    nextReviewButton.click();
+}, 4000);
+
 // setInterval(() => {
-//     nextCarouselButton.click();
-// }, 3000);
+//     if (trendingCardContainer.scrollLeft !== scrollWidthOFTrendingCard) {
+//         trendingCardContainer.scrollTo(scrollWidthOFTrendingCard + 1, 0);
+//       }
+// }, 15);
 
 carouselButton.forEach(btn => {
     btn.addEventListener('click', ()=>{

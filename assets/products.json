@@ -1,0 +1,60 @@
+{
+    "men" : [
+        {
+            "productId" : 1,
+            "productName" : "Men - Black - Thalaivar - T-shirt",
+            "oldPrice" : 500,
+            "newPrice" : 300,
+            "imagepath" : "products/men.jpg"
+        },
+        {
+            "productId" : 2,
+            "productName" : "Men - Black - Thalaivar - T-shirt",
+            "oldPrice" : 500,
+            "newPrice" : 300,
+            "imagepath" : "products/men.jpg"
+        },
+        {
+            "productId" : 3,
+            "productName" : "Men - Black - Thalaivar - T-shirt",
+            "oldPrice" : 500,
+            "newPrice" : 300,
+            "imagepath" : "products/men.jpg"
+        },
+        {
+            "productId" : 4,
+            "productName" : "Men - Black - Thalaivar - T-shirt",
+            "oldPrice" : 500,
+            "newPrice" : 300,
+            "imagepath" : "products/men.jpg"
+        },
+        {
+            "productId" : 5,
+            "productName" : "Men - Black - Thalaivar - T-shirt",
+            "oldPrice" : 500,
+            "newPrice" : 300,
+            "imagepath" : "products/men.jpg"
+        },
+        {
+            "productId" : 6,
+            "productName" : "Men - Black - Thalaivar - T-shirt",
+            "oldPrice" : 500,
+            "newPrice" : 300,
+            "imagepath" : "products/men.jpg"
+        },
+        {
+            "productId" : 7,
+            "productName" : "Men - Black - Thalaivar - T-shirt",
+            "oldPrice" : 500,
+            "newPrice" : 300,
+            "imagepath" : "products/men.jpg"
+        },
+        {
+            "productId" : 7,
+            "productName" : "Men - Black - Thalaivar - T-shirt",
+            "oldPrice" : 500,
+            "newPrice" : 300,
+            "imagepath" : "products/men.jpg"
+        }
+    ]
+}

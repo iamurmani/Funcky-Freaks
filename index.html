@@ -18,16 +18,16 @@
 
 <body>
     <nav class="nav-bar">
-        <div class="logo">
-            <span>FUNKY FREAKS</span>
+        <div class="logo" id="logo">
+            <a>FUNKY FREAKS</a>
         </div>
         <ul class="nav-links">
-            <li><a href="">Men</a></li>
-            <li><a href="">Women</a></li>
-            <li><a href="">Kids</a></li>
-            <li><a href="">Accessories</a></li>
-            <li><a href="">Plus Size</a></li>
-            <li><a href="">Custom Print</a></li>
+            <li><a data-cat-type="men">Men</a></li>
+            <li><a data-cat-type="women">Women</a></li>
+            <li><a data-cat-type="kids">Kids</a></li>
+            <li><a data-cat-type="family">Family</a></li>
+            <li><a data-cat-type="couple">Couples</a></li>
+            <li><a>Custom Print</a></li>
         </ul>
         <div class="burger">
             <i class="fas fa-bars"></i>
@@ -177,31 +177,43 @@
         <div class="category-container">
             <div class="cat-div">
                 <div class="category">
-                    <img src="./images/category/men.jpeg" alt="">
+                    <a data-cat-type="men">
+                        <img src="./images/category/men.jpeg" alt="">
+                    </a>
                     <span>Men</span>
                 </div>
                 <div class="category">
-                    <img src="./images/category/women.jpeg" alt="">
+                    <a data-cat-type="women">
+                        <img src="./images/category/women.jpeg" alt="">
+                    </a>
                     <span>Women</span>
                 </div>
             </div>
             <div class="cat-div">
                 <div class="category">
-                    <img src="./images/category/couple.jpeg" alt="">
+                    <a data-cat-type="couple">
+                        <img src="./images/category/couple.jpeg" alt="">
+                    </a>
                     <span>Couple</span>
                 </div>
                 <div class="category">
-                    <img src="./images/category/kids.jpeg" alt="">
+                    <a  data-cat-type="kids">
+                        <img src="./images/category/kids.jpeg" alt="">
+                    </a>
                     <span>Kids</span>
                 </div>
             </div>
             <div class="cat-div">
                 <div class="category">
-                    <img src="./images/category/family.jpeg" alt="">
+                    <a data-cat-type="family">
+                        <img src="./images/category/family.jpeg" alt="">
+                    </a>
                     <span>Family</span>
                 </div>
                 <div class="category">
-                    <img src="./images/category/plus.jpeg" alt="">
+                    <a data-cat-type="plus">
+                        <img src="./images/category/plus.jpeg" alt="">
+                    </a>
                     <span>Plus</span>
                 </div>
             </div>
@@ -273,6 +285,7 @@
             </div>
     </footer>
     <script src="./scripts/app.js"></script>
+    <script src="./scripts/product.js"></script>
 </body>
 
 </html>
